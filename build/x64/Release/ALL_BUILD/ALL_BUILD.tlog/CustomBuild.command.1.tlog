@@ -1,0 +1,10 @@
+^C:\USERS\AGNAW\ONEDRIVE\DESKTOP\SEM2\COMPUTER VISION\VIDEO_STABILISATION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/video_stabilisation" "-BC:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/video_stabilisation/build" --check-stamp-file "C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/video_stabilisation/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

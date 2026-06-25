@@ -1,0 +1,3 @@
+C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/video_stabilisation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/video_stabilisation/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/video_stabilisation/build/src/CMakeFiles/main.dir
